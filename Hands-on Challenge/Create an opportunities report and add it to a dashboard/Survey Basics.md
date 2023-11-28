@@ -1,5 +1,6 @@
 ## Build and Customize a Survey
 Create a product feedback survey using Salesforce Surveys.
+![Screenshot (130)](https://github.com/mayankchaudhary26/Salesforce-journey/assets/56837137/2ec134d6-790d-4a27-8667-57fd562f4926)
 
 If you haven’t already enabled Surveys in your Trailhead Playground, do it now or else this challenge won’t pass.
 Create a new survey:
@@ -40,3 +41,7 @@ Email Sender Address: None
 Language Settings
 Language: English
 Save the survey
+
+
+
+Here's my feedback - https://creative-shark-uj46x8-dev-ed.trailblaze.lightning.force.com/survey/runtimeApp.app?surveyVersionId=0Ks5j00000CxipKCAR&previewMode=true
